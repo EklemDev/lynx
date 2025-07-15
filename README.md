@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lynx Chat-Bits v1.0
 
 Um sistema de chat em tempo real com interface pixelizada, construído com Next.js, Firebase e Vercel Blob Store.
@@ -208,3 +209,7 @@ Este projeto está sob a licença MIT.
 ---
 
 **Lynx Chat-Bits** - Sistema de chat pixelizado em tempo real 🎮
+=======
+# lynx
+Hub administrativo de conta e transferência com chat.
+>>>>>>> 12accef801d0b0eb149f374688af68d697611e35
